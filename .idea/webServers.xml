@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="06dd671a-bacf-4610-b172-4282c84b5092" name="IRIS">
+        <fileTransfer accessType="SFTP" host="sc.stanford.edu" port="22" sshConfigId="6e250519-6951-4ea3-bb26-5cd1d18ecef4" sshConfig="cchoi1@sc.stanford.edu:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
